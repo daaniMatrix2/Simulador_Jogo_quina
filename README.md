@@ -1,6 +1,6 @@
 # 🎲 Simulador de Jogos da Quina com Verificador
 
-![Descrição da imagem](./Screenshot_39.png)
+![Descrição da imagem](./Screenshot_39.jpg)
 
 
 Uma aplicação gráfica (Tkinter) em Python para **gerar apostas aleatórias da Quina** (loteria brasileira), **simular sorteios** e **verificar automaticamente os acertos** dos jogos. Permite customizar os prêmios de Duque, Terno, Quadra e Quina, além de informar o valor total investido e o retorno com base no resultado do sorteio.
